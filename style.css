@@ -1094,6 +1094,9 @@ footer .copyright {
   #hero {
     padding: 0 20px;
     background-position: 59%;
+   
+  
+  
   }
 
   #feature .fe-box {
@@ -1106,12 +1109,13 @@ footer .copyright {
   }
 
   h2 {
-    font-size: 32px;
+    font-size:1.4rem;
   }
 
   h1 {
-    font-size: 38px;
+    font-size: 1.5rem;
   }
+  
 
   #product1 .pro {
     width: 100%;
